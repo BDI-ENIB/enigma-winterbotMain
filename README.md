@@ -1,2 +1,2 @@
-# winterbot_main
+# winterbotMain
 main code for ENIgma's winterbot
